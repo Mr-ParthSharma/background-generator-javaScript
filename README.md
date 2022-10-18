@@ -1,2 +1,2 @@
 # background-generator-javaScript
-Select two different colors and generate the Linear_gradian code for the following background
+Select two different colors and generate the linear-gradient code for the following background
